@@ -6,4 +6,4 @@
  * The ETL process was performed by extracting and transforming the Wikipedia Data and the Kaggle data.
  * And subsequently by merging the data before adding it to a PostgreSQL database.
  ### Results
-     The ETL process resulted in a constistent, less null riden data that can be use for analysis
+     The ETL process resulted in consistent, less null-laden data that Analysts could use for analysis
